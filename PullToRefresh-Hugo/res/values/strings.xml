@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PullToRefresh_master</string>
+    
+     <!-- pull 2 refresh -->
+    <string name="pull_to_refresh_pull_down_label">滑动刷新</string>
+    <string name="pull_to_refresh_release_label">释放刷新</string>
+    <string name="pull_to_refresh_refreshing_label">加载中</string>
+    <string name="pull_to_refresh_tap_label">点击刷新</string>
+</resources>
